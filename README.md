@@ -25,7 +25,25 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+
 ## Project setup
+
+
+...
+
+## Description
+
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+## Environment Variables
+
+Antes de rodar o projeto, crie um arquivo `.env` na raiz com as seguintes variáveis:
+
+```env
+DATABASE_URL=
+PORT=
+JWT_SECRET=
+
 
 ```bash
 $ pnpm install
